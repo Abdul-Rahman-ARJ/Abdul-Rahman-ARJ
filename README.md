@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Python | Flask | FastAPI | Java | C++ | C# | TypedScript
 - 🌐 &nbsp; Android | HTML | CSS |TailwindCSS | JavaScript | Bootstrap | React | Next.JS | Angular
-- 🛢 &nbsp; MySQL | MongoDB | Xampp
+- 🛢 &nbsp; SQL Server | SSMS | MySQL | MongoDB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Inshot | Photoshop | VN
 
