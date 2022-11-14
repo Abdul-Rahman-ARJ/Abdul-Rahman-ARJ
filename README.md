@@ -14,9 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Flask | FastAPI | Java | C++ | C# | TypedScript
-- 🌐 &nbsp; Android | HTML | CSS |TailwindCSS | JavaScript | Bootstrap | React | Next.JS | Angular
+- 🌐 &nbsp; Android | HTML | CSS |TailwindCSS | JavaScript | Bootstrap | React | Next.JS | Angular | AngularJS
 - 🛢 &nbsp; SQL Server | SSMS | MySQL | MongoDB | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Azure DevOps
 - 🖥 &nbsp; Inshot | Photoshop | VN
 
 
