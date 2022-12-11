@@ -19,7 +19,7 @@
 - 🛢 &nbsp; SQL Server | SSMS | MySQL | MongoDB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Azure DevOps
 - 🌐 &nbsp; Azure | GCP | Azure Functions | Azure Logic Apps | Azure APIM service | Cosmos DB | App Insights | SQL DB
-- 🖥 &nbsp; Inshot | Photoshop
+- 🖥 &nbsp; Inshot | Photoshop | VN
 
 
 </br>
