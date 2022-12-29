@@ -15,7 +15,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Flask | FastAPI | Java | C++ | C# | TypedScript
-- 🌐 &nbsp; Android | HTML | CSS | TailwindCSS | JavaScript | Bootstrap | React | Next.JS | Angular | AngularJS | Material UI 
+- 🌐 &nbsp; Android | HTML | CSS | TailwindCSS | JavaScript | Bootstrap | React | Next.JS | Angular | AngularJS | Material UI | daisyUI
 - 🛢 &nbsp; SQL Server | SSMS | MySQL | MongoDB | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git | Azure DevOps
 - 🌐 &nbsp; Azure | GCP | Azure Functions | Azure Logic Apps | Azure APIM service | Cosmos DB | ADF Azure Data factory | Azure Storage Account | App Registration | Key vaults | RDP | SSRS | SSIS 
